@@ -1,0 +1,48 @@
+/* Google fonts */
+ /* @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Lexend:wght@100..900&display=swap'); */
+:root{
+    --font-base:'Lexend',sans-serif;;
+    --font-second-base: 'Inter',sans-serif;;
+    --bg-coclor:#111;;
+    --primary-color:#ffffff;
+    --secondary-color:#e50914;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background: #111;
+
+header {
+  font-family: var(--font-second-base);
+}
+
+footer {
+      font-family: var(--font-base);
+}
+}
+ 
+
+.sanchez-regular {
+  font-family: "Sanchez", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sanchez-regular-italic {
+  font-family: "Sanchez", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+
+
+
+
+
+ 
